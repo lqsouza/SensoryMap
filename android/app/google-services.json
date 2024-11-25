@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118336790123",
+    "project_id": "sensorymap-cb52a",
+    "storage_bucket": "sensorymap-cb52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118336790123:android:df5708ff40a1bf73565b2e",
+        "android_client_info": {
+          "package_name": "com.sectormapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118336790123-84qp8535p1rgp5skhuck87cne9utbnam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sectormapapp",
+            "certificate_hash": "8b820b3c449d004a6b850031a1315de3436b072f"
+          }
+        },
+        {
+          "client_id": "118336790123-d7h17rsobt48vblk4ve3ishfd3vlfusp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsP9smlAeJbI5DTvm9yyezfI0B9cIlq9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118336790123-d7h17rsobt48vblk4ve3ishfd3vlfusp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
